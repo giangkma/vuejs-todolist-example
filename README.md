@@ -1,4 +1,4 @@
-# startdds
+# start
 
 ## Project setup
 ```
