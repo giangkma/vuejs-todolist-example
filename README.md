@@ -1,5 +1,5 @@
 # start
-ddd
+
 ## Project setup
 ```
 yarn install
